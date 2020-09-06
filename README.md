@@ -1,6 +1,7 @@
 # Leergang-Programmeren
 
 Opdracht 1: vier vierenprobleem
+
 Bereken de waardes van 0 tot en met 20 met precies vier vieren.
 
 Gewenst resultaat:
